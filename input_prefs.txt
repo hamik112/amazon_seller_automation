@@ -1,0 +1,14 @@
+#################################################
+###### Description for each line ################
+#################################################
+# Invoice title - this is same in all invoices
+# TIN in Invoice - this is same in all invoices
+# Starting value of invoice
+# Pickup date
+# Pickup time
+#################################################
+Bracevor
+29481194691
+8976542164
+2016-02-13
+1:00 PM
